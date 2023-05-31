@@ -1,0 +1,3 @@
+- Finish code for showing solition and select problems 
+- Implement the problem/solution
+- How code work section
